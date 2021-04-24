@@ -5,11 +5,11 @@ import { useGesture } from 'react-with-gesture'
 import './styles.css'
 
 const cards = [
-  'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/RWS_Tarot_00_Fool.jpg/640px-RWS_Tarot_00_Fool.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/7/7f/RWS_Tarot_18_Moon.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/f/ff/RWS_Tarot_21_World.jpg',
+  'https://upload.wikimedia.org/wikipedia/en/d/db/RWS_Tarot_17_Star.jpg',
   'https://upload.wikimedia.org/wikipedia/en/d/db/RWS_Tarot_06_Lovers.jpg',
   'https://upload.wikimedia.org/wikipedia/en/d/de/RWS_Tarot_01_Magician.jpg',
+  'https://upload.wikimedia.org/wikipedia/en/f/ff/RWS_Tarot_21_World.jpg',
+  'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/RWS_Tarot_00_Fool.jpg/640px-RWS_Tarot_00_Fool.jpg',
   'https://upload.wikimedia.org/wikipedia/en/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg'
 ]
 
